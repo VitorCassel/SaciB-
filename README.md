@@ -72,8 +72,8 @@ Este projeto foi desenvolvido como um requisito acadêmico para a disciplina de 
 
 Contribuições externas são muito bem-vindas\! Se você tem ideias para melhorias, otimizações de código ou encontrou algum bug, sinta-se à vontade para:
 
-1.  **Abrir uma [Issue](https://www.google.com/search?q=https://github.com/VitorCassel/SaciBo/issues):** Para relatar um bug detalhadamente ou para sugerir uma nova funcionalidade.
-2.  **Fazer um [Pull Request](https://www.google.com/search?q=https://github.com/VitorCassel/SaciBo/issues)):** Com suas próprias correções e melhorias.
+1.  **Abrir uma [Issue](https://github.com/VitorCassel/SaciBo/issues):** Para relatar um bug detalhadamente ou para sugerir uma nova funcionalidade.
+2.  **Fazer um [Pull Request](https://github.com/VitorCassel/SaciBo/issues)):** Com suas próprias correções e melhorias.
 
 -----
 
