@@ -68,12 +68,6 @@ Diagrama de Conexões (Exemplo):
 
 Este projeto foi desenvolvido como um requisito acadêmico para a disciplina de [ANALISE E DESENVOLVIMENTO DE SISTEMAS] e está concluído em sua versão para a competição.
 
-## 🤝 Como Contribuir
-
-Contribuições externas são muito bem-vindas\! Se você tem ideias para melhorias, otimizações de código ou encontrou algum bug, sinta-se à vontade para:
-
-1.  **Abrir uma [Issue](https://github.com/VitorCassel/SaciBo/issues):** Para relatar um bug detalhadamente ou para sugerir uma nova funcionalidade.
-2.  **Fazer um [Pull Request](https://github.com/VitorCassel/SaciBo/issues)):** Com suas próprias correções e melhorias.
 
 -----
 
